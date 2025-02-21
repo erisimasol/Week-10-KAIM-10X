@@ -9,3 +9,4 @@ import requests
 import time
 from IPython.display import clear_output
 ruptures matplotlib pandas
+import ruptures as rpt
