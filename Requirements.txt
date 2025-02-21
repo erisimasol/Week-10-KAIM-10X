@@ -14,3 +14,4 @@ pip install requests pandas matplotlib ipywidgets
 from statsmodels.tsa.arima.model import ARIMA
 from statsmodels.tsa.stattools import adfuller
 pandas numpy matplotlib arch
+import yfinance as yf
