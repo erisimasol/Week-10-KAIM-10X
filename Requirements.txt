@@ -10,3 +10,7 @@ import time
 from IPython.display import clear_output
 ruptures matplotlib pandas
 import ruptures as rpt
+pip install requests pandas matplotlib ipywidgets
+from statsmodels.tsa.arima.model import ARIMA
+from statsmodels.tsa.stattools import adfuller
+pandas numpy matplotlib arch
